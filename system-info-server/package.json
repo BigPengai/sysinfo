@@ -1,0 +1,15 @@
+{
+  "name": "system-info-server",
+  "version": "1.0.0",
+  "description": "计算机程序收集后端",
+  "keywords": [
+    "计算机信息收集"
+  ],
+  "license": "ISC",
+  "author": "peter",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,5 @@
+server:
+  ip: "192.168.1.9"
+  port: 1234
+api_path: "/api/system-info"
+api_key: "server_configserver_configserver_config"
